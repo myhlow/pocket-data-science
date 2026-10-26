@@ -1,0 +1,17 @@
+{
+  "id": "myhlow/llm-preference-non-ml-baselines-pocket-data-lab",
+  "title": "LLM Preference Non-ML Baselines (Pocket Data Lab)",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

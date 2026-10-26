@@ -1,0 +1,17 @@
+{
+  "id": "myhlow/llm-preference-mobile-gbdt-pocket-data-lab",
+  "title": "llm preference mobile gbdt pocket data lab",
+  "code_file": "main.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

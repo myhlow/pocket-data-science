@@ -1,0 +1,48 @@
+# Data files & Archives (never commit competition datasets)
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.parquet
+*.feather
+*.npy
+*.npz
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model artifacts & training run logs
+catboost_info/
+lightning_logs/
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
