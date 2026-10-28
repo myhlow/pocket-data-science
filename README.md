@@ -23,7 +23,7 @@ pocket-data-science/
 ├── 02-regression-geometry/          # House Prices advanced regression & target transformations
 ├── 03-edge-vision-nlp/             # MNIST Subspace SVM & NLP Disaster Tweets under 2 GB RAM
 ├── 04-time-series-forecasting/     # Store Sales Quad-Ensemble (Global Top 100 · Rank #99)
-├── 05-mathematical-foundations/    # Multi-class log loss MLE derivations & evaluation metrics
+├── 05-mathematical-foundations/    # Classification diagnostics, confusion matrices & log loss MLE derivations
 └── 06-llm-human-preference/        # LMSYS Chatbot Arena: Heuristics & GBDTs (Rank #170)
 ```
 
